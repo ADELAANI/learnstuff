@@ -1,2 +1,2 @@
 # learnstuff
-learning stuff about github on coursera
+learning stuff about github on coursera.
